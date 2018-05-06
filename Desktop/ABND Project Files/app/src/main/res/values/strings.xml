@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="business_name">Fasika Ethiopian Restaurant</string>
+    <string name="restsurant_image">Restaurant Logo</string>
+    <string name="address">Address:2132, 145 Broadway, Somerville, MA 02145</string>
+    <string name="phone">(617)628&#8211;9300</string>
+    <string name="website_info">www.fasikaethiopian.com</string>
+    <string name="hours">Monday&#8212;Friday 5:30&#8212;10:00PM</string>
+    <string name="weekend">Saturday&#8212;Sunday 2:00&#8212;11:00PM</string>
+</resources>
